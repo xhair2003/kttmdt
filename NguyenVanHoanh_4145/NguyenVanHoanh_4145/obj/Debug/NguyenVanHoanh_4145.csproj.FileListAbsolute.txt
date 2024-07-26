@@ -1,0 +1,142 @@
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\NguyenVanHoanh_4145.dll.config
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\NguyenVanHoanh_4145.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\NguyenVanHoanh_4145.pdb
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\csc.exe
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\csc.exe.config
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\csc.rsp
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\csi.exe
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\csi.exe.config
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\csi.rsp
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.AppContext.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Collections.Immutable.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Console.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.IO.Compression.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.IO.FileSystem.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.IO.Pipes.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Reflection.Metadata.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.AccessControl.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.Claims.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.ValueTuple.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Xml.XPath.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\vbc.exe
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\vbc.exe.config
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\vbc.rsp
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\VBCSCompiler.exe
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\VBCSCompiler.exe.config
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Antlr3.Runtime.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\AspNet.ScriptManager.jQuery.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.Web.Infrastructure.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Newtonsoft.Json.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\System.Web.Optimization.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\WebGrease.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\System.Web.Optimization.xml
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Newtonsoft.Json.xml
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Antlr3.Runtime.pdb
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\obj\Debug\NguyenVanHoanh_4145.csprojAssemblyReference.cache
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\obj\Debug\NguyenVanHoanh_4145.csproj.CoreCompileInputs.cache
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\obj\Debug\NguyenVanHoanh_4145.csproj.CopyComplete
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\obj\Debug\NguyenVanHoanh_4145.dll
+E:\Học tập\Môn Kỹ thuật thương mại điện tử\NguyenVanHoanh_4145\NguyenVanHoanh_4145\obj\Debug\NguyenVanHoanh_4145.pdb
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\NguyenVanHoanh_4145.dll.config
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\NguyenVanHoanh_4145.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\NguyenVanHoanh_4145.pdb
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\csc.exe
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\csc.exe.config
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\csc.rsp
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\csi.exe
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\csi.exe.config
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\csi.rsp
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.AppContext.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Collections.Immutable.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Console.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.IO.Compression.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.IO.FileSystem.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.IO.Pipes.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Reflection.Metadata.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.AccessControl.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.Claims.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.ValueTuple.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Xml.XPath.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\vbc.exe
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\vbc.exe.config
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\vbc.rsp
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\VBCSCompiler.exe
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\roslyn\VBCSCompiler.exe.config
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Antlr3.Runtime.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\AspNet.ScriptManager.jQuery.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.Web.Infrastructure.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Newtonsoft.Json.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\System.Web.Optimization.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\WebGrease.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\System.Web.Optimization.xml
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Newtonsoft.Json.xml
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Antlr3.Runtime.pdb
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\obj\Debug\NguyenVanHoanh_4145.csprojAssemblyReference.cache
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\obj\Debug\NguyenVanHoanh_4145.csproj.CoreCompileInputs.cache
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\obj\Debug\NguyenVanHoanh_4145.csproj.CopyComplete
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\obj\Debug\NguyenVanHoanh_4145.dll
+E:\Downloads\NguyenVanHoanh_4145\NguyenVanHoanh_4145\obj\Debug\NguyenVanHoanh_4145.pdb

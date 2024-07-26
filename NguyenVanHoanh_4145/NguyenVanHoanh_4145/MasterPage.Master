@@ -1,0 +1,118 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="NguyenVanHoanh_4145.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <%--<link href="Index.css" rel="stylesheet" />--%>
+
+    <style type="text/css">
+        .auto-style1 {
+            width: 20%;
+            height: 230px;
+            float: left;
+            border-right-style:groove
+        }
+        html, body, .container {
+            width: 970px;
+             height: 100%;
+        }
+        .container {
+            display: flex;
+            border-style:groove;
+        }
+        .login_form {
+            width: 35%;
+            height: auto;
+            float: right;
+            text-align:center;
+        }
+        .main_content {
+            width: 50%;
+        }
+
+        .auto-style2 {
+            width: 30%;
+            border-left-style:groove;
+            float: right;
+            text-align: center;
+        }
+
+        .auto-style3 {
+            height: 210px;
+        }
+
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container">
+            <div class="auto-style1">
+                <h3>DANH MỤC HOA</h3>
+                <asp:DataList ID="DataList1" runat="server" Height="133px" Width="116px" >
+                    <ItemTemplate>
+                        <asp:LinkButton ID="LinkButton1" runat="server" CommandArgument='<%# Eval("TenDM") %>' OnClick="LinkButton1_Click" Text='<%# Eval("TenDM") %>'></asp:LinkButton>
+                    </ItemTemplate>
+                </asp:DataList>
+            </div>
+            <div class="main_content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div class="auto-style2">
+                <asp:Login ID="Login1" runat="server">
+                    <LayoutTemplate>
+                        <table cellpadding="1" cellspacing="0" style="border-collapse:collapse;">
+                            <tr>
+                                <td class="auto-style3">
+                                    <table cellpadding="0">
+                                        <tr>
+                                            <td align="center" colspan="2">Thông tin tài khoản</td>
+                                        </tr>
+                                        <tr>
+                                            <td align="right">
+                                                <asp:Label ID="UserNameLabel" runat="server" AssociatedControlID="UserName">Tên đăng nhập:</asp:Label>
+                                            </td>
+                                            <td>
+                                                <asp:TextBox ID="UserName" runat="server"></asp:TextBox>
+                                                <asp:RequiredFieldValidator ID="UserNameRequired" runat="server" ControlToValidate="UserName" ErrorMessage="User Name is required." ToolTip="User Name is required." ValidationGroup="ctl00$Login1">*</asp:RequiredFieldValidator>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="right">
+                                                <asp:Label ID="PasswordLabel" runat="server" AssociatedControlID="Password">Mật khẩu:</asp:Label>
+                                            </td>
+                                            <td>
+                                                <asp:TextBox ID="Password" runat="server" TextMode="Password"></asp:TextBox>
+                                                <asp:RequiredFieldValidator ID="PasswordRequired" runat="server" ControlToValidate="Password" ErrorMessage="Password is required." ToolTip="Password is required." ValidationGroup="ctl00$Login1">*</asp:RequiredFieldValidator>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="2" >
+                                                <asp:CheckBox ID="RememberMe" runat="server" Text="Ghi nhớ mật khẩu" />
+                                            </td>
+                                        </tr>
+                                        <%--<tr>
+                                            <td align="center" colspan="2" style="color:Red;">
+                                                <asp:Literal ID="FailureText" runat="server" EnableViewState="False"></asp:Literal>
+                                            </td>
+                                        </tr>--%>
+                                        <tr>
+                                            <td align="right" colspan="2">
+                                                <asp:Button ID="LoginButton" runat="server" CommandName="Login" Text="Đăng nhập" ValidationGroup="ctl00$Login1" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </LayoutTemplate>
+                </asp:Login>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
